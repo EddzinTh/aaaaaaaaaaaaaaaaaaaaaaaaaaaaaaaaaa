@@ -1,0 +1,42 @@
+body{
+background-color: beige;
+font-style: italic ;
+color: white;
+
+}
+
+ h1{
+text-align: center;
+font-size: 50px;
+color:palevioletred ;
+
+}
+
+p{
+color: rgb(224, 100, 224);
+margin-bottom: 18px;
+
+}
+
+button{
+color: rgb(255, 255, 255);
+background-color: rgb(7, 85, 131);
+border-radius: 30%;
+transition: all;
+padding: 50px;
+}
+
+link{
+    text-decoration: underline;
+    color: blue;
+   
+
+
+
+
+
+}
+
+
+
+
